@@ -5,7 +5,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     color: #3D66C6;
-    background:#f5f5f5;
+    background:#f2f4f7;
     -moz-osx-font-smoothing:grayscale; /*suavização da escala de cinza*/
     -webkit-box-direction:normal; /*direção dos elementos filhos de um elemento de caixa são dispostos*/
     font-family:Montserrat, sans-serif;
@@ -109,3 +109,12 @@ nav ul li a:focus {
     transition: width 0.2s ease-out;
 
 }
+
+.col{
+    text-align: center;
+}
+
+.col-4{
+    text-align: center;
+}
+
